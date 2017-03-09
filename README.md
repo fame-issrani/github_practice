@@ -1,2 +1,1 @@
-# github_practice
-Github Practice session 2
+I will clone this repo
